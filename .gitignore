@@ -1,0 +1,17 @@
+# Debug folder
+Debug/
+
+# Build artifacts
+*.o
+*.a
+*.so
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
