@@ -8,6 +8,7 @@ Debug/
 
 # IDE and editor files
 .vscode/
+.settings/
 *.swp
 *.swo
 *~
